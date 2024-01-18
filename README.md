@@ -2,7 +2,7 @@
 "Mi repositorio personal."
 # Bienvenido/a a mi perfil de GitHub 👋
 
-¡Hola! Soy Christopher Velasco, un estudiante de ingeniería en informática en la Universidad de Guadalajara. Estoy apasionado/a por la tecnología y disfruto mucho programando. Este es mi rincón en GitHub, donde comparto mis proyectos, contribuciones y exploraciones en el vasto mundo de la informática.
+¡Hola! Soy Christopher Velasco, un estudiante de ingeniería en informática en la Universidad de Guadalajara. Estoy apasionado por la tecnología y disfruto mucho programando. Este es mi rincón en GitHub, donde comparto mis proyectos, contribuciones y exploraciones en el vasto mundo de la informática.
 
 ## Acerca de mí
 
